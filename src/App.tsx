@@ -7,7 +7,7 @@ function App() {
       <img src="logo.jpg" className='logo'/>
       <p className='title'>Reviews By Maya</p>
       <div className='links'>
-        <a href='https://il.iherb.com/ugc/wishlist?id=7f10160d-83a1-4e80-b995-c9f80ed7adb3&rcode=BGG7944' className='link'>
+        <a href='https://secure.iherb.com/tr/list?id=7f10160d-83a1-4e80-b995-c9f80ed7adb3&rcode=BGG7944' className='link'>
           רשימת ההמלצות שלי בiHerb ❤️‍🔥
         </a>
         <a href='https://wa.me/message/PSFPDRJX5CLXP1'  className='link'>
@@ -20,7 +20,7 @@ function App() {
           קבוצת הווצאפ של העמוד 💬
         </a>
 
-        <a href='https://il.iherb.com/ugc/wishlist?id=7f10160d-83a1-4e80-b995-c9f80ed7adb3&rcode=BGG7944'  className='link'>
+        <a href='https://secure.iherb.com/tr/list?id=7f10160d-83a1-4e80-b995-c9f80ed7adb3&rcode=BGG7944'  className='link'>
          קוד הנחה באייהרב- BGG7944 🛒
         </a>
         <a href='https://www.yesstyle.com/en/home.html?rco=YESMAYA23&utm_term=YESMAYA23&utm_medium=Influencer&utm_source=dynamic&mcg=influencer'  className='link'>
