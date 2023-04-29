@@ -1,0 +1,42 @@
+.product-viewer {
+    border-style: solid;
+    border-color: black;
+    color: black;
+    border-width: 2px;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 11px;
+    background-color: whitesmoke;
+    text-align: center;
+    direction: rtl;
+    display: flex;
+    flex-direction: column;
+    max-height: 600px;
+    overflow-y: scroll;
+}
+
+.hebrew_name {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.product-viewer p {
+    margin:  5px;;
+}
+
+.websites {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    justify-content: center;
+}
+
+.product-link {
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 25px;
+}

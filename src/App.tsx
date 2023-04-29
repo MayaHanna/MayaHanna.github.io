@@ -1,12 +1,22 @@
 import React from 'react';
-import './App.css';
+import './App.css'
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { SearchProducts } from './SearchProducts';
+import { Brands } from './Brands';
+import { Stores } from './Stores';
+import { SkinProblem } from './SkinProblem';
+import { ProductType } from './ProductType';
 
-function App() {
-  return (
-    <div className="App">
-      <img src="logo.jpg" className='logo'/>
-      <p className='title'>Reviews By Maya</p>
+
+
+function Home() {
+  return  <div>
+      {/* <img src="logo.jpg" className='logo'/>
+      <p className='title'>Reviews By Maya</p> */}
       <div className='links'>
+        <a href='/products' className='link'>
+         חיפוש המלצות 🔎
+        </a>
         <a href='https://il.iherb.com/ugc/wishlist?id=7f10160d-83a1-4e80-b995-c9f80ed7adb3&rcode=BGG7944&utm_medium=appshare' className='link'>
           רשימת ההמלצות שלי בiHerb ❤️‍🔥
         </a>
@@ -34,7 +44,29 @@ function App() {
         </a>
       </div>
     </div>
-  );
+  
+}
+
+
+
+function App() {
+
+    return (
+      <div  className="App">
+         <img src="logo.jpg" className='logo'/>
+      <p className='title'>Reviews By Maya</p>
+      <Router>
+        <Routes>
+         <Route index element={<Home />} />
+         <Route  path="/products"  element={<SearchProducts />} />
+         <Route  path="/brands/:name?"  element={<Brands />} />
+         <Route  path="/stores/:name?"  element={<Stores />} />
+         <Route  path="/skin_problem/:name?"  element={<SkinProblem />} />
+         <Route  path="/product_type/:name?"  element={<ProductType />} />
+        </Routes>
+      </Router>
+      </div>
+    );
 }
 
 export default App;
