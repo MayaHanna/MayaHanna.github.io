@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reviews-by-maya/static/css/main.dd796aa0.css",
-    "main.js": "/reviews-by-maya/static/js/main.44be4b24.js",
+    "main.js": "/reviews-by-maya/static/js/main.b0044d50.js",
     "static/js/787.49fa4b86.chunk.js": "/reviews-by-maya/static/js/787.49fa4b86.chunk.js",
     "index.html": "/reviews-by-maya/index.html",
     "main.dd796aa0.css.map": "/reviews-by-maya/static/css/main.dd796aa0.css.map",
-    "main.44be4b24.js.map": "/reviews-by-maya/static/js/main.44be4b24.js.map",
+    "main.b0044d50.js.map": "/reviews-by-maya/static/js/main.b0044d50.js.map",
     "787.49fa4b86.chunk.js.map": "/reviews-by-maya/static/js/787.49fa4b86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd796aa0.css",
-    "static/js/main.44be4b24.js"
+    "static/js/main.b0044d50.js"
   ]
 }
