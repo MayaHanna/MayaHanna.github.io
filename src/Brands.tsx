@@ -1,4 +1,4 @@
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import products from './products.json';
 import './Brands.css'
 import { ProductViewer } from './Product';
@@ -12,7 +12,7 @@ export function Brands(){
     return <div className='brands-page'>
       <h2>מותגים</h2>
       <div className='brands'>
-        {Array.from(brands).map(brand => <a href={`/brands/${brand}`}>{brand}</a>)}
+        {Array.from(brands).map(brand => <Link to={`/brands/${brand}`}>{brand}</Link>)}
       </div>
     </div>
     }

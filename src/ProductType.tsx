@@ -1,4 +1,4 @@
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import products from './products.json';
 import './Brands.css'
 import { ProductViewer } from './Product';
@@ -13,7 +13,7 @@ export function ProductType(){
     return <div className='brands-page'>
       <h2>סוג מוצר</h2>
       <div className='brands' style={{textAlign: 'right'}}>
-        {Array.from(types).map(t => <a href={`/product_type/${t}`}>{productTypeToHebrew[t] ?? t}</a>)}
+        {Array.from(types).map(t => <Link to={`/product_type/${t}`}>{productTypeToHebrew[t] ?? t}</Link>)}
       </div>
     </div>
     }

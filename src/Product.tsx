@@ -3,6 +3,7 @@ import { useEffect } from 'react';
 import './Product.css'
 import { InstagramEmbed } from 'react-social-media-embed';
 import { productTypeToHebrew } from './translation';
+import { Link } from 'react-router-dom';
 
 class Product{
     "hebrew_name": string;
@@ -36,9 +37,9 @@ export function ProductViewer(props: {product: Product}){
 
         <p className='brand-and-type'>
             מותג:
-        <a  className='brand' href={`/brands/${props.product.brand}`}> {props.product.brand}</a>
+        <Link  className='brand' to={`/brands/${props.product.brand}`}> {props.product.brand}</Link>
                 ,       סוג מוצר: 
-        <a className='type'  href={`/product_type/${props.product.product_type}`}> {props.product.product_type.map(t => productTypeToHebrew[t] ?? t).join(", ")}</a>
+        <Link className='type'  to={`/product_type/${props.product.product_type}`}> {props.product.product_type.map(t => productTypeToHebrew[t] ?? t).join(", ")}</Link>
         </p>
         
         <p>ללא אכזריות: {props.product.cruelty_free ? "כן 🐰" : "לא"}</p>

@@ -1,4 +1,4 @@
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import products from './products.json';
 import './Brands.css'
 import { ProductViewer } from './Product';
@@ -12,7 +12,7 @@ export function Stores(){
     return <div className='brands-page'>
       <h2>אתרים וחנויות</h2>
       <div className='brands'>
-        {Array.from(stores).map(s => <a href={`/stores/${s}`}>{s}</a>)}
+        {Array.from(stores).map(s => <Link to={`/stores/${s}`}>{s}</Link>)}
       </div>
     </div>
     }

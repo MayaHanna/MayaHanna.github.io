@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css'
-import { BrowserRouter as Router, HashRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, HashRouter, Route, Routes, Link } from 'react-router-dom';
 import { SearchProducts } from './SearchProducts';
 import { Brands } from './Brands';
 import { Stores } from './Stores';
@@ -14,9 +14,9 @@ function Home() {
       {/* <img src="logo.jpg" className='logo'/>
       <p className='title'>Reviews By Maya</p> */}
       <div className='links'>
-        <a href='/products' className='link'>
+        <Link to='/products' className='link'>
          חיפוש המלצות 🔎
-        </a>
+        </Link>
         <a href='https://il.iherb.com/ugc/wishlist?id=7f10160d-83a1-4e80-b995-c9f80ed7adb3&rcode=BGG7944&utm_medium=appshare' className='link'>
           רשימת ההמלצות שלי בiHerb ❤️‍🔥
         </a>
@@ -55,7 +55,7 @@ function App() {
       <div  className="App">
          <img src="logo.jpg" className='logo'/>
       <p className='title'>Reviews By Maya</p>
-      <HashRouter>
+    
         <Routes>
          <Route index element={<Home />} />
          <Route  path="/products"  element={<SearchProducts />} />
@@ -64,8 +64,8 @@ function App() {
          <Route  path="/skin_problem/:name?"  element={<SkinProblem />} />
          <Route  path="/product_type/:name?"  element={<ProductType />} />
         </Routes>
-      </HashRouter>
       </div>
+      
     );
 }
 

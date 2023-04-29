@@ -1,4 +1,4 @@
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import products from './products.json';
 import './Brands.css'
 import { ProductViewer } from './Product';
@@ -13,7 +13,7 @@ export function SkinProblem(){
     return <div className='brands-page'>
       <h2>בעיות עור</h2>
       <div className='brands' style={{textAlign: 'right'}}>
-        {Array.from(skin_problems).map(problem => <a href={`/skin_problem/${problem}`}>{skinProblemToHebrew[problem] ?? problem}</a>)}
+        {Array.from(skin_problems).map(problem => <Link to={`/skin_problem/${problem}`}>{skinProblemToHebrew[problem] ?? problem}</Link>)}
       </div>
     </div>
     }
