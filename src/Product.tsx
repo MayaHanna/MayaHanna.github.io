@@ -21,7 +21,8 @@ class Product{
 const websiteToColor :  { [key: string]: string | undefined }= {
     yesstyle: "#63c956",
     iherb: "#458500",
-    amazon: "#febd69"
+    amazon: "#febd69",
+    superpharm:"#203c9c"
 }
 
 export function ProductViewer(props: {product: Product}){

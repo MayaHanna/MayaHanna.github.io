@@ -16,6 +16,8 @@ h2 {
     gap: 10px;
     font-size: 20px;
     text-align: left;
+    max-width: 100%;
+    flex-wrap: wrap;
 }
 
 .productsWrapper {
