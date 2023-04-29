@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css'
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, HashRouter, Route, Routes } from 'react-router-dom';
 import { SearchProducts } from './SearchProducts';
 import { Brands } from './Brands';
 import { Stores } from './Stores';
@@ -55,7 +55,7 @@ function App() {
       <div  className="App">
          <img src="logo.jpg" className='logo'/>
       <p className='title'>Reviews By Maya</p>
-      <Router>
+      <HashRouter>
         <Routes>
          <Route index element={<Home />} />
          <Route  path="/products"  element={<SearchProducts />} />
@@ -64,7 +64,7 @@ function App() {
          <Route  path="/skin_problem/:name?"  element={<SkinProblem />} />
          <Route  path="/product_type/:name?"  element={<ProductType />} />
         </Routes>
-      </Router>
+      </HashRouter>
       </div>
     );
 }
