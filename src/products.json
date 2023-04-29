@@ -1328,14 +1328,14 @@
         "skin_problems": ["pie","pigmentation","redness","acne"]
     },
     {
-        "hebrew_name": "",
-        "english_name": "",
-        "brand": "",
-        "product_type": [""],
-        "review":"",
+        "hebrew_name": "טונר סיקה של cosrx",
+        "english_name": "Cosrx pure fit cica toner",
+        "brand": "Cosrx",
+        "product_type": ["toner"],
+        "review":"https://www.instagram.com/p/CSW1pQMoJbq/",
         "websites": {
-            "iherb": "",
-            "yesstyle": "",
+            "iherb": "https://il.iherb.com/pr/cosrx-pure-fit-cica-toner-5-07-fl-oz-150-ml/101448?gclid=Cj0KCQjwgLOiBhC7ARIsAIeetVAc2jGCkMSWZwlv4lvdhKOTTb0jBpLUk8mVLidxODqgz4vO9dzTO3MaAt1OEALw_wcB&gclsrc=aw.ds&rcode=BGG7944",
+            "yesstyle": "https://www.yesstyle.com/en/cosrx-pure-fit-cica-toner-150ml/info.html/pid.1088612858?rco=YESMAYA23&utm_term=YESMAYA23&utm_medium=Influencer&utm_source=dynamic&mcg=influencer",
             "sephora_uk": "",
             "kamedis": "",
             "superpharm": "",
@@ -1349,31 +1349,31 @@
         "sensitive": true,
         "skin_types": [],
         "cruelty_free": true,
-        "skin_problems": []
+        "skin_problems": ["redness","broken_barrier","pie"]
     },
     {
-        "hebrew_name": "",
-        "english_name": "",
-        "brand": "",
-        "product_type": [""],
-        "review":"",
+        "hebrew_name": "סבון סליצילית של אינקי ליסט",
+        "english_name": "Inkey list salycilic acid cleanser",
+        "brand": "The Inkey List",
+        "product_type": ["cleanser"],
+        "review":"https://www.instagram.com/p/CR_8ApsIu8s/",
         "websites": {
             "iherb": "",
             "yesstyle": "",
             "sephora_uk": "",
             "kamedis": "",
-            "superpharm": "",
+            "superpharm": "https://shop.super-pharm.co.il/cosmetics/cosmetics-brands-care-products/facial-cleansing/%D7%A0%D7%99%D7%A7%D7%95%D7%99-%D7%97%D7%95%D7%9E%D7%A6%D7%94-%D7%A1%D7%9C%D7%99%D7%A6%D7%99%D7%9C%D7%99%D7%AA/p/613876",
             "amazon": "",
             "jolse": "",
             "belieef": "",
             "beautybay": "",
-            "asos": "",
+            "asos": "https://www.asos.com/the-inkey-list/the-inkey-list-salicylic-acid-cleanser-150ml/prd/202549694?affid=28009&_Cj0KCQjwgLOiBhC7ARIsAIeetVAkGW1iTooDB6kKTewW4Wz_qvAkqLPUpTQXLkW_NBTgy2dSNx19RlUaAj_VEALw_wcB&channelref=paid+search&ppcadref=19801071573%7c144757935097%7cpla-298353119441&gclid=Cj0KCQjwgLOiBhC7ARIsAIeetVAkGW1iTooDB6kKTewW4Wz_qvAkqLPUpTQXLkW_NBTgy2dSNx19RlUaAj_VEALw_wcB&gclsrc=aw.ds",
             "cultbeauty": ""
         },
-        "sensitive": true,
-        "skin_types": [],
+        "sensitive": false,
+        "skin_types": ["oily"],
         "cruelty_free": true,
-        "skin_problems": []
+        "skin_problems": ["acne","blackheads","sebaceous_filaments","keratosis_pilaris","texture"]
     }
     ,{
         "hebrew_name": "",
