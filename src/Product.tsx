@@ -35,7 +35,7 @@ export function ProductViewer(props: {product: Product}){
             {Object.entries(props.product.websites).filter(([k,v])=> v && v?.length >0 ).map(([k,v])=>
             <a href={v} className="product-link" style={{backgroundColor: websiteToColor?.[k] ?? "black"}}>{k}</a>)}
         </div>
-
+        {props.product.brand === "Kamedis" && <div>קוד הנחה באתר של קמדיס: MAYA10</div>}
         <p className='brand-and-type'>
             מותג:
         <Link  className='brand' to={`/brands/${props.product.brand}`}> {props.product.brand}</Link>
@@ -45,7 +45,7 @@ export function ProductViewer(props: {product: Product}){
         
         <p>ללא אכזריות: {props.product.cruelty_free ? "כן 🐰" : "לא"}</p>
         <div style={{ display: 'flex', justifyContent: 'center', borderRadius: "15%"}}>
-            <InstagramEmbed url={props.product.review} height="400px"/>
+            <InstagramEmbed url={props.product.review}/>
         </div>
     </div>
 

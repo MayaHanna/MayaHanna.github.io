@@ -29,6 +29,8 @@
     flex-direction: row;
     gap: 5px;
     justify-content: center;
+    max-width: 100%;
+    flex-wrap: wrap;
 }
 
 .product-link {

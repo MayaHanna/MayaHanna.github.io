@@ -1,6 +1,7 @@
 const productTypeToHebrew :{ [key: string]: string  }= {
     cleanser: "סבון",
     cleansing_balm: "באלם ניקוי",
+    cleansing_oil: "שמן ניקוי",
     moisturizer: "קרם לחות",
     serum: "סרום",
     sunscreen: "קרם הגנה",
