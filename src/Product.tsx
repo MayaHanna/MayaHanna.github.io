@@ -43,7 +43,9 @@ export function ProductViewer(props: {product: Product}){
         <Link className='type'  to={`/product_type/${props.product.product_type}`}> {props.product.product_type.map(t => productTypeToHebrew[t] ?? t).join(", ")}</Link>
         </p>
         
-        <p>ללא אכזריות: {props.product.cruelty_free ? "כן 🐰" : "לא"}</p>
+        <p>{props.product.sensitive && "✔️ מתאים לעור רגיש "}</p>
+        <p>{props.product.cruelty_free && "🐰 ללא אכזריות בבעלי חיים"}</p>
+
         <div style={{ display: 'flex', justifyContent: 'center', borderRadius: "15%"}}>
             <InstagramEmbed url={props.product.review}/>
         </div>

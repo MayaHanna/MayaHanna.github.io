@@ -6,6 +6,7 @@ import { Brands } from './Brands';
 import { Stores } from './Stores';
 import { SkinProblem } from './SkinProblem';
 import { ProductType } from './ProductType';
+import { SkinType } from './SkinType';
 
 
 
@@ -63,6 +64,7 @@ function App() {
          <Route  path="/stores/:name?"  element={<Stores />} />
          <Route  path="/skin_problem/:name?"  element={<SkinProblem />} />
          <Route  path="/product_type/:name?"  element={<ProductType />} />
+         <Route  path="/skin_type/:name?"  element={<SkinType />} />
         </Routes>
       </div>
       

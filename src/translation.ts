@@ -28,4 +28,11 @@ const skinProblemToHebrew :{ [key: string]: string  }= {
     texture: "טקסטורה",
 }
 
-export {productTypeToHebrew, skinProblemToHebrew};
+const skinTypeToHebrew :{ [key: string]: string  }= {
+    oily: "שומני",
+    dry: "יבש",
+    combination: "מעורב",
+    normal: "רגיל",
+}
+
+export {productTypeToHebrew, skinProblemToHebrew, skinTypeToHebrew};

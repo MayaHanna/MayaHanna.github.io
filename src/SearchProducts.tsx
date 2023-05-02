@@ -9,6 +9,8 @@ export function SearchProducts(){
         <Link className='cat-link'  to="/stores">לפי אתר</Link>
         <Link className='cat-link' to="/product_type">לפי סוג מוצר</Link>
         <Link className='cat-link' to='/skin_problem'>לפי בעיית עור</Link>
+        <Link className='cat-link' to='/skin_type'>לפי סוג עור</Link>
+
       </div>
     </div>
   }
