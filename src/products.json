@@ -1,5 +1,29 @@
 [
     {
+        "hebrew_name": "שמן ניקוי של beauty of joseon",
+        "english_name": "Beauty of joseon,Ginseng Cleansing Oil",
+        "brand": "Beauty of Joseon",
+        "product_type": ["cleansing_oil"],
+        "review":"https://www.instagram.com/p/Cr8mSnQoRH3/",
+        "websites": {
+            "iherb": "https://il.iherb.com/pr/beauty-of-joseon-ginseng-cleansing-oil-7-1-fl-oz-210-ml/116838?rcode=BGG7944",
+            "yesstyle": "https://www.yesstyle.com/en/beauty-of-joseon-ginseng-cleansing-oil-210ml/info.html/pid.1114255823?rco=YESMAYA23&utm_term=YESMAYA23&utm_medium=Influencer&utm_source=dynamic&mcg=influencer",
+            "sephora_uk": "",
+            "kamedis": "",
+            "superpharm": "",
+            "amazon": "",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "",
+            "asos": "",
+            "cultbeauty": ""
+        },
+        "sensitive": true,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": []
+    },
+    {
         "hebrew_name": "סרום ביפידה של איסנטרי",
         "english_name": "Isntree - TW-Real Bifida Ampoule",
         "brand": "Isntree",
