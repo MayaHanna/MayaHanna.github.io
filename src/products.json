@@ -383,7 +383,7 @@
         "hebrew_name": "סבון חומצה סליצילית של קמדיס",
         "english_name": "Kamedis ac clear face cleanser",
         "brand": "Kamedis",
-        "product_type": ["cleanser"],
+        "product_type": ["cleanser", "body_wash"],
         "review":"https://www.instagram.com/p/Cl6kSZBIwX9/",
         "websites": {
             "iherb": "",
@@ -614,7 +614,7 @@
         "hebrew_name": "קרם הגנה של בונדי סנדס",
         "english_name": "Bondi sands hydra uv protect SPF50 body lotion",
         "brand": "Bondi sands",
-        "product_type": ["sunscreen"],
+        "product_type": ["sunscreen", "body_sunscreen"],
         "review":"https://www.instagram.com/p/CinY_BIIXq6/",
         "websites": {
             "iherb": "",
@@ -798,7 +798,7 @@
         "hebrew_name": "סבון בנזויל פרוקסייד של פנוקסיל",
         "english_name": "Panoxyl acne creamy wash benzoyl peroxide",
         "brand": "Panoxyl",
-        "product_type": ["cleanser"],
+        "product_type": ["cleanser", "body_wash"],
         "review":"https://www.instagram.com/p/CgFIWnHI1Oi/",
         "websites": {
             "iherb": "https://il.iherb.com/pr/panoxyl-acne-creamy-wash-benzoyl-peroxide-4-daily-control-6-oz-170-g/103843?gclid=Cj0KCQjwgLOiBhC7ARIsAIeetVBGgFcPMXugHBfof5dggWaLctIprdE3yxBzmqWla1JO459kb1kzcMwaAqXHEALw_wcB&gclsrc=aw.ds&rcode=BGG7944",
@@ -1239,7 +1239,7 @@
         "hebrew_name": "סבון בנזויל פרוקסייד של דיפרין ",
         "english_name": "Differin daily deep cleanser",
         "brand": "Differin",
-        "product_type": ["cleanser"],
+        "product_type": ["cleanser","body_wash"],
         "review":"https://www.instagram.com/p/CU25ETzIA6a/",
         "websites": {
             "iherb": "https://il.iherb.com/pr/differin-daily-deep-cleanser-4-fl-oz-118-ml/103165?gclid=Cj0KCQjwgLOiBhC7ARIsAIeetVD2FX9kx_R_qlp0HNdOTJRF3WyuyYmjqSPgnzBP8I8ySsUruh0nBuMaAp9GEALw_wcB&gclsrc=aw.ds&rcode=BGG7944",
@@ -1451,7 +1451,7 @@
         "hebrew_name": "סבון סליצילית של אינקי ליסט",
         "english_name": "Inkey list salycilic acid cleanser",
         "brand": "The Inkey List",
-        "product_type": ["cleanser"],
+        "product_type": ["cleanser", "body_wash"],
         "review":"https://www.instagram.com/p/CR_8ApsIu8s/",
         "websites": {
             "iherb": "",
@@ -1890,6 +1890,377 @@
         "cruelty_free": false,
         "skin_problems": ["acne","texture","blackheads","pigmentation","keratosis_pilaris","sebaceous_filaments"]
     },{
+        "hebrew_name": "תחליב הגנה של SVR",
+        "english_name": "SVR SUN SECURE Sun Secure Face & Body Spray SPF50+ 200ml",
+        "brand": "SVR",
+        "product_type": ["body_sunscreen"],
+        "review":"https://www.instagram.com/p/CryHOsSIvS-/",
+        "websites": {
+            "iherb": "",
+            "yesstyle": "",
+            "sephora_uk": "https://www.awin1.com/cread.php?awinmid=22773&awinaffid=1166354&ued=https%3A%2F%2Fwww.sephora.co.uk%2Fp%2FSVR-SUN-SECURE-Sun-Secure-Face-and-Body-Spray-SPF50-200ml",
+            "kamedis": "",
+            "superpharm": "",
+            "amazon": "https://amzn.to/3Wd8Snx",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "",
+            "asos": "",
+            "cultbeauty": ""
+        },
+        "sensitive": false,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": []
+    },{
+        "hebrew_name": "סומק סטיק של ELF",
+        "english_name": "E.L.F., Monochromatic Multi-Stick",
+        "brand": "E.L.F.",
+        "product_type": ["blush"],
+        "review":"https://www.instagram.com/p/CrYlF91oZdp/",
+        "websites": {
+            "iherb": "https://il.iherb.com/pr/e-l-f-monochromatic-multi-stick-bronzed-cherry-0-155-oz-4-4-g/113145?rcode=BGG7944",
+            "yesstyle": "",
+            "sephora_uk": "https://www.awin1.com/cread.php?awinmid=22773&awinaffid=1166354&ued=https%3A%2F%2Fwww.sephora.co.uk%2Fp%2FElf-Monochromatic-Multi-Stick-44g%3Fgclid%3DCjwKCAjw9pGjBhB-EiwAa5jl3Ln0rZTpAOr4hfQ8Ff_-ExIzPj2Hjp5rLZFI9bXCaOH19tGYkS6g7RoCDVEQAvD_BwE%26gclsrc%3Daw.ds",
+            "kamedis": "",
+            "superpharm": "",
+            "amazon": "https://amzn.to/3IkMTFI",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "https://www.beautybay.com/p/elf-cosmetics/monochromatic-multi-stick/?gclid=CjwKCAjw9pGjBhB-EiwAa5jl3M7BMbOUS37Au0tA_PhOjxwQQBhVIWOlVrtFallqqtI9XDSZcwbCbhoCgr0QAvD_BwE&gclsrc=aw.ds",
+            "asos": "",
+            "cultbeauty": ""
+        },
+        "sensitive": false,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": []
+    },{
+        "hebrew_name": "פילינג לכפות הרגליים של טוני מולי",
+        "english_name": "Tonymoly shiny foot super peeling liquid",
+        "brand": "Tony Moly",
+        "product_type": ["foot_peeling"],
+        "review":"https://www.instagram.com/p/Cqsog-yI-eU/",
+        "websites": {
+            "iherb": "https://il.iherb.com/pr/tony-moly-shiny-foot-super-peeling-liquid-1-pair/110960?rcode=BGG7944",
+            "yesstyle": "https://www.yesstyle.com/en/tonymoly-shiny-foot-super-peeling-liquid-1pair-1pair/info.html/pid.1045404000?rco=YESMAYA23&utm_term=YESMAYA23&utm_medium=Influencer&utm_source=dynamic&mcg=influencer",
+            "sephora_uk": "",
+            "kamedis": "",
+            "superpharm": "",
+            "amazon": "https://amzn.to/431DDhr",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "",
+            "asos": "",
+            "cultbeauty": ""
+        },
+        "sensitive": false,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": ["dry_foot"]
+    },{
+        "hebrew_name": "סבוני ידיים של south of France",
+        "english_name": "South of France hydrating foaming hand wash",
+        "brand": "South Of France",
+        "product_type": ["hand_wash"],
+        "review":"https://www.instagram.com/p/Cqa192-oxb3/",
+        "websites": {
+            "iherb": "https://il.iherb.com/pr/south-of-france-hydrating-foaming-hand-wash-with-agave-nectar-cherry-blossom-8-fl-oz-236-ml/89320?rcode=BGG7944",
+            "yesstyle": "",
+            "sephora_uk": "",
+            "kamedis": "",
+            "superpharm": "",
+            "amazon": "",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "",
+            "asos": "",
+            "cultbeauty": ""
+        },
+        "sensitive": false,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": []
+    },{
+        "hebrew_name": "ברונזר של דה באלם",
+        "english_name": "TheBalm bahama mama bronzer",
+        "brand": "The Balm",
+        "product_type": ["bronzer"],
+        "review":"https://www.instagram.com/p/CqTRXLMog5M/",
+        "websites": {
+            "iherb": "https://il.iherb.com/pr/thebalm-cosmetics-bahama-mama-bronzer-shadow-contour-powder-0-25-oz-7-08-g/94517?rcode=BGG7944",
+            "yesstyle": "",
+            "sephora_uk": "",
+            "kamedis": "",
+            "superpharm": "",
+            "amazon": "",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "",
+            "asos": "",
+            "cultbeauty": ""
+        },
+        "sensitive": false,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": []
+    },{
+        "hebrew_name": "סומק והיילייטר של אלף",
+        "english_name": "E.L.F., Bite-Size Face Duo, Watermelon",
+        "brand": "E.L.F.",
+        "product_type": ["blush","highlighter"],
+        "review":"https://www.instagram.com/p/CqDsktPI5bu/",
+        "websites": {
+            "iherb": "https://il.iherb.com/pr/e-l-f-bite-size-face-duo-watermelon-0-16-oz-4-6-g/104583?rcode=BGG7944",
+            "yesstyle": "",
+            "sephora_uk": "",
+            "kamedis": "",
+            "superpharm": "",
+            "amazon": "https://amzn.to/3Wjew7N",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "",
+            "asos": "",
+            "cultbeauty": ""
+        },
+        "sensitive": false,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": []
+    },{
+        "hebrew_name": "דרמהפלנר ",
+        "english_name": "Kitsch, Facial Dermaplaner",
+        "brand": "Kitsch",
+        "product_type": ["tool"],
+        "review":"https://www.instagram.com/p/Cp79afFIz6r/",
+        "websites": {
+            "iherb": "https://il.iherb.com/pr/kitsch-facial-dermaplaner-12-count/101279?rcode=BGG7944",
+            "yesstyle": "",
+            "sephora_uk": "",
+            "kamedis": "",
+            "superpharm": "",
+            "amazon": "https://amzn.to/3Ijibgh",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "",
+            "asos": "",
+            "cultbeauty": ""
+        },
+        "sensitive": false,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": ["texture"]
+    },{
+        "hebrew_name": "קרם ידיים של קמדיס",
+        "english_name": "Kamedis nourishing hand cream",
+        "brand": "Kamedis",
+        "product_type": ["hand_cream"],
+        "review":"https://www.instagram.com/p/Cpsqg7UILNK/",
+        "websites": {
+            "iherb": "",
+            "yesstyle": "",
+            "sephora_uk": "",
+            "kamedis": "https://www.kamedis.co.il/products/%D7%A7%D7%A8%D7%9D-%D7%9C%D7%97%D7%95%D7%AA-%D7%9E%D7%96%D7%99%D7%9F-%D7%9C%D7%99%D7%93%D7%99%D7%99%D7%9D-%D7%9C%D7%A2%D7%95%D7%A8-%D7%99%D7%91%D7%A9-nourishing-hand-cream?variant=34276350460035&currency=ILS&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3BSz-cUg9LuInEgPEelxcbyPkr0Mb02f_GY3T5ueuP6KLNGYgCIIJhoCn8EQAvD_BwE",
+            "superpharm": "",
+            "amazon": "",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "",
+            "asos": "",
+            "cultbeauty": ""
+        },
+        "sensitive": true,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": ["dry_hands"]
+    },{
+        "hebrew_name": "סבון גוף של פטאל פרש",
+        "english_name": "Petal fresh moisturizing bath & shower gel",
+        "brand": "Petal Fresh",
+        "product_type": ["body_wash"],
+        "review":"https://www.instagram.com/p/Cpk3Y5lofYU/",
+        "websites": {
+            "iherb": "https://il.iherb.com/pr/petal-fresh-moisturizing-bath-shower-gel-grape-seed-olive-oil-16-fl-oz-475-ml/66250?rcode=BGG7944",
+            "yesstyle": "",
+            "sephora_uk": "",
+            "kamedis": "",
+            "superpharm": "",
+            "amazon": "https://amzn.to/3OewypR",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "",
+            "asos": "",
+            "cultbeauty": ""
+        },
+        "sensitive": true,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": []
+    },{
+        "hebrew_name": "מסכת שיער של curl smith ",
+        "english_name": "Curl smith hydro creme soothing mask",
+        "brand": "Curl Smith",
+        "product_type": ["hair_mask"],
+        "review":"https://www.instagram.com/p/CpdHpKuIXQK/",
+        "websites": {
+            "iherb": "https://il.iherb.com/pr/curlsmith-hydro-creme-soothing-mask-8-fl-oz-237-ml/108523?gclid=CjwKCAjw9pGjBhB-EiwAa5jl3D_1PIzrrM2QsB8b5iLOhLh14izsV1VnAdgALWvtmCyX0o8VStThGBoCgaMQAvD_BwE&gclsrc=aw.ds&rcode=BGG7944",
+            "yesstyle": "",
+            "sephora_uk": "https://www.awin1.com/cread.php?awinmid=22773&awinaffid=1166354&ued=https%3A%2F%2Fwww.sephora.co.uk%2Fp%2FCurlsmith-Scalp-Hydro-Creme-Soothing-Masque-237ml%3Fgclid%3DCjwKCAjw9pGjBhB-EiwAa5jl3F21U5LrVc1wx3x4vLxVzhn-fIjKHsI5iQN2iSil0SfdtKXrOjVC2RoCMtsQAvD_BwE%26gclsrc%3Daw.ds",
+            "kamedis": "",
+            "superpharm": "",
+            "amazon": "https://amzn.to/41KJSoQ",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "",
+            "asos": "",
+            "cultbeauty": "",
+            "lookfantastic":"https://www.lookfantastic.com/curlsmith-hydro-creme-soothing-mask-237ml/12691586.html?affil=thggpsad&switchcurrency=ILS&shippingcountry=IL&affil=thgppc&kwds=&thg_ppc_campaign=71700000097442032&adtype=pla&product_id=12691586&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3Nbn2x-8F3DFv9ullPxRpk_hQNvtQvGTZfe6XQkDmRGsVAYt8cle3xoCk3cQAvD_BwE&gclsrc=aw.ds"
+        },
+        "sensitive": false,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": []
+    },{
+        "hebrew_name": "שפתון הגנה של בונדי סנדס",
+        "english_name": "Bondi Sands SPF 50+ Lip Balm Mango 10g",
+        "brand": "Bondi sands",
+        "product_type": ["sunscreen","lip_balm"],
+        "review":"https://www.instagram.com/p/CpIjFn4o2Ah/",
+        "websites": {
+            "iherb": "",
+            "yesstyle": "",
+            "sephora_uk": "https://www.awin1.com/cread.php?awinmid=22773&awinaffid=1166354&ued=https%3A%2F%2Fwww.sephora.co.uk%2Fp%2FBondi-Sands-SPF50-Lip-Balm-10g%3Fcurr%3DGBP%26option%3D61445%26istCompanyId%3D1a627511-1fcb-4ea2-885c-b849e10a8688%26istFeedId%3Dd7a61015-8d11-4b9d-b40c-98ca91094e35%26istItemId%3Diaammipxw%26istBid%3Dtcurr%3DGBP%26gbraid%3D123%26gclid%3DCjwKCAjw9pGjBhB-EiwAa5jl3AuI8ogjHwrivZadCpXrSXKTb7LqaGhcvX7flfYVCnPHUOOxXL_kDBoCfpQQAvD_BwE%26gclsrc%3Daw.ds",
+            "kamedis": "",
+            "superpharm": "",
+            "amazon": "",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "",
+            "asos": "https://www.asos.com/bondi-sands/bondi-sands-spf-50-lip-balm-mango-10g/prd/22838279",
+            "cultbeauty": ""
+        },
+        "sensitive": false,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": []
+    },{
+        "hebrew_name": "גלוס מנפח של רבולושן",
+        "english_name": "Makeup Revolution Pout Bomb Plumping Lip Gloss Cookie",
+        "brand": "Revolution",
+        "product_type": ["lipgloss"],
+        "review":"https://www.instagram.com/p/CnulubqIvGw/",
+        "websites": {
+            "iherb": "",
+            "yesstyle": "",
+            "sephora_uk": "",
+            "kamedis": "",
+            "superpharm": "https://shop.super-pharm.co.il/cosmetics/lip-makeup/lip-gloss/POUT-BOMB-%D7%9C%D7%99%D7%A4%D7%92%D7%9C%D7%95%D7%A1-COOKIE/p/625814?gclid=CjwKCAjw9pGjBhB-EiwAa5jl3Gqr132dEO-Uf2_qPEo4bxM8BjYhZJ3gU_56TfbI8KMrHvTQEVqf9RoCRnAQAvD_BwE",
+            "amazon": "https://amzn.to/41IMio6",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "",
+            "asos": "https://www.asos.com/revolution/revolution-pout-bomb-plumping-lip-gloss-cookie/prd/14072200",
+            "cultbeauty": "",
+            "lookfantastic":"https://www.lookfantastic.com/makeup-revolution-pout-bomb-plumping-gloss-various-shades/12656151.html?affil=thggpsad&switchcurrency=ILS&shippingcountry=IL&variation=12656156&affil=thgppc&kwds=&thg_ppc_campaign=71700000097442032&adtype=pla&product_id=12656156&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3AI27dsV1ua8lIV-dDalpe2GTOQtOhaTf9Bq5K_CJs_eZFJ3hT-AhBoCBigQAvD_BwE&gclsrc=aw.ds"
+        },
+        "sensitive": false,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": []
+    },{
+        "hebrew_name": "ג'ל להרגעת עקיצות וגירויים של קמדיס",
+        "english_name": "Kamedis skin relief calming lotion",
+        "brand": "Kamedis",
+        "product_type": ["itch_calming"],
+        "review":"https://www.instagram.com/p/CnkNMBFtjVK/",
+        "websites": {
+            "iherb": "",
+            "yesstyle": "",
+            "sephora_uk": "",
+            "kamedis": "https://www.kamedis.co.il/products/calming-lotion",
+            "superpharm": "",
+            "amazon": "",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "",
+            "asos": "",
+            "cultbeauty": ""
+        },
+        "sensitive": true,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": ["itch"]
+    },{
+        "hebrew_name": "ביבי קרים סיקה של פיוריטו",
+        "english_name": "PURITO - Cica Clearing BB Cream",
+        "brand": "Purito",
+        "product_type": ["bb_cream"],
+        "review":"https://www.instagram.com/p/CnZ53hRtWvp/",
+        "websites": {
+            "iherb": "https://il.iherb.com/pr/purito-cica-clearing-bb-cream-15-rose-ivory-1-fl-oz-30-ml/115187?gclid=CjwKCAjw9pGjBhB-EiwAa5jl3Jjim09AGHtbJYBvbN4hpPJztmVXgE6zH0oG6XOmN578Z2QmtCfO2RoCd3YQAvD_BwE&gclsrc=aw.ds&rcode=BGG7944",
+            "yesstyle": "https://www.yesstyle.com/en/purito-cica-clearing-bb-cream-6-colors-27-sand-beige/info.html/pid.1095589888?rco=YESMAYA23&utm_term=YESMAYA23&utm_medium=Influencer&utm_source=dynamic&mcg=influencer",
+            "sephora_uk": "https://www.awin1.com/cread.php?awinmid=22773&awinaffid=1166354&ued=https%3A%2F%2Fwww.sephora.co.uk%2Fp%2FPurito-Cica-Clearing-BB-Cream-30ml%3Fgclid%3DCjwKCAjw9pGjBhB-EiwAa5jl3N-dOhWgvvUZDnxv6lR-DjqDYcfS1wta7GVnNnAutal2nOAPumbd_RoCrvMQAvD_BwE%26gclsrc%3Daw.ds",
+            "kamedis": "",
+            "superpharm": "",
+            "amazon": "",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "",
+            "asos": "",
+            "cultbeauty": ""
+        },
+        "sensitive": true,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": ["redness"]
+    },{
+        "hebrew_name": "היילייטר בטוש של אלף",
+        "english_name": "E.L.F., no budge shadow stick",
+        "brand": "E.L.F.",
+        "product_type": ["highlighter"],
+        "review":"https://www.instagram.com/p/CnKeO6gNukn/",
+        "websites": {
+            "iherb": "https://il.iherb.com/pr/e-l-f-no-budge-shadow-stick-perfect-pearl-0-05-oz-1-6-g/108696?gclid=CjwKCAjw9pGjBhB-EiwAa5jl3BmFduV7jLiBLQt1g61A4EKpAfE3ujp3oNKOdlQtkeqj1stuogIWJhoCSSUQAvD_BwE&gclsrc=aw.ds&rcode=BGG7944",
+            "yesstyle": "",
+            "sephora_uk": "",
+            "kamedis": "",
+            "superpharm": "",
+            "amazon": "",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "https://www.beautybay.com/p/elf-cosmetics/no-budge-shadow-stick/perfect-pearl/?ctyid=il&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3Bdho7VN6UrMl9VpXGPJ5t6Oci6Bl881ctK8ivBMCG4ZgWV3Ui910RoCpJMQAvD_BwE&gclsrc=aw.ds",
+            "asos": "",
+            "cultbeauty": ""
+        },
+        "sensitive": false,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": []
+    },{
+        "hebrew_name": "K18",
+        "english_name": "K18",
+        "brand": "K18",
+        "product_type": ["hair_treatment"],
+        "review":"https://www.instagram.com/p/CmguKgEIX1m/",
+        "websites": {
+            "iherb": "",
+            "yesstyle": "",
+            "sephora_uk": "",
+            "kamedis": "",
+            "superpharm": "",
+            "amazon": "",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "https://www.beautybay.com/l/k18hair/",
+            "asos": "",
+            "cultbeauty": "https://www.cultbeauty.com/k18-leave-in-molecular-repair-hair-mask-various-sizes/13557497.html",
+            "makeup": "https://makeupstore.co.il/product/565794/?gad=1&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3B-OGVQXr-WcnGOxRWzF5CfX65_fo8847fYAVV609_IGfohrMYwl6BoCpRkQAvD_BwE"
+        },
+        "sensitive": false,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": ["damaged_hair"]
+    },{
         "hebrew_name": "",
         "english_name": "",
         "brand": "",
@@ -1908,7 +2279,7 @@
             "asos": "",
             "cultbeauty": ""
         },
-        "sensitive": true,
+        "sensitive": false,
         "skin_types": [],
         "cruelty_free": true,
         "skin_problems": []
@@ -1931,7 +2302,7 @@
             "asos": "",
             "cultbeauty": ""
         },
-        "sensitive": true,
+        "sensitive": false,
         "skin_types": [],
         "cruelty_free": true,
         "skin_problems": []
@@ -1954,7 +2325,7 @@
             "asos": "",
             "cultbeauty": ""
         },
-        "sensitive": true,
+        "sensitive": false,
         "skin_types": [],
         "cruelty_free": true,
         "skin_problems": []
@@ -1977,7 +2348,7 @@
             "asos": "",
             "cultbeauty": ""
         },
-        "sensitive": true,
+        "sensitive": false,
         "skin_types": [],
         "cruelty_free": true,
         "skin_problems": []
@@ -2000,7 +2371,7 @@
             "asos": "",
             "cultbeauty": ""
         },
-        "sensitive": true,
+        "sensitive": false,
         "skin_types": [],
         "cruelty_free": true,
         "skin_problems": []
@@ -2023,7 +2394,7 @@
             "asos": "",
             "cultbeauty": ""
         },
-        "sensitive": true,
+        "sensitive": false,
         "skin_types": [],
         "cruelty_free": true,
         "skin_problems": []
@@ -2046,7 +2417,7 @@
             "asos": "",
             "cultbeauty": ""
         },
-        "sensitive": true,
+        "sensitive": false,
         "skin_types": [],
         "cruelty_free": true,
         "skin_problems": []
@@ -2069,7 +2440,53 @@
             "asos": "",
             "cultbeauty": ""
         },
-        "sensitive": true,
+        "sensitive": false,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": []
+    },{
+        "hebrew_name": "",
+        "english_name": "",
+        "brand": "",
+        "product_type": [""],
+        "review":"",
+        "websites": {
+            "iherb": "",
+            "yesstyle": "",
+            "sephora_uk": "",
+            "kamedis": "",
+            "superpharm": "",
+            "amazon": "",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "",
+            "asos": "",
+            "cultbeauty": ""
+        },
+        "sensitive": false,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": []
+    },{
+        "hebrew_name": "",
+        "english_name": "",
+        "brand": "",
+        "product_type": [""],
+        "review":"",
+        "websites": {
+            "iherb": "",
+            "yesstyle": "",
+            "sephora_uk": "",
+            "kamedis": "",
+            "superpharm": "",
+            "amazon": "",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "",
+            "asos": "",
+            "cultbeauty": ""
+        },
+        "sensitive": false,
         "skin_types": [],
         "cruelty_free": true,
         "skin_problems": []

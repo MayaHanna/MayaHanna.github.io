@@ -1,5 +1,5 @@
 const productTypeToHebrew :{ [key: string]: string  }= {
-    cleanser: "סבון",
+    cleanser: "סבון פנים",
     cleansing_balm: "באלם ניקוי",
     cleansing_oil: "שמן ניקוי",
     moisturizer: "קרם לחות",
@@ -10,7 +10,21 @@ const productTypeToHebrew :{ [key: string]: string  }= {
     face_mask: "מסכת פנים",
     lip_balm: "באלם לשפתיים",
     spot_treatment: "טיפול נקודתי",
-    toner: "טונר"
+    toner: "טונר",
+    bb_cream: "ביבי קרים",
+    blush: "סומק",
+    body_wash: "סבון גוף",
+    body_sunscreen: "קרם הגנה לגוף",
+    bronzer: "ברונזר",
+    foot_peeling: "פילינג לכפות הרגליים",
+    hair_mask: "מסכת שיער",
+    hair_treatment: "טיפול משקם לשיער",
+    hand_cream: "קרם ידיים",
+    hand_wash: "סבון ידיים",
+    highlighter: "היילייטר",
+    itch_calming: "ג'ל להרגעת עקיצות",
+    lipgloss: "ליפגלוס",
+    tool: "כלים ומכשירים"
 }
 
 const skinProblemToHebrew :{ [key: string]: string  }= {
@@ -26,6 +40,10 @@ const skinProblemToHebrew :{ [key: string]: string  }= {
     puffy_eyes: "נפיחות מתחת לעיניים",
     sebaceous_filaments: "sebaceous filaments",
     texture: "טקסטורה",
+    damaged_hair: "שיער פגום",
+    dry_foot: "כפות רגליים יבשות",
+    dry_hands: "ידיים יבשות",
+    itch: "עקיצות וגירודים"
 }
 
 const skinTypeToHebrew :{ [key: string]: string  }= {

@@ -6,7 +6,7 @@ import { productTypeToHebrew } from './translation';
 
 export function ProductType(){
 
-    const types = new Set(products.flatMap(p => p.product_type).filter(n => n?.length > 0).sort());
+    const types = new Set(products.flatMap(p => p.product_type).filter(n => n?.length > 0));
     let { name } = useParams<"name">();
     
     if (!name || !types.has(name) || name.length === 0) {
