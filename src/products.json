@@ -1,4 +1,28 @@
-[
+    [
+    {
+        "hebrew_name": "סרום לקרקפת של curlsmith",
+        "english_name": "Curlsmith, Full Lengths Density Elixir, 2 fl oz (60 ml)",
+        "brand": "Curl Smith",
+        "product_type": ["scalp_serum"],
+        "review":"https://www.instagram.com/p/CseF7EkIei2/",
+        "websites": {
+            "iherb": "https://il.iherb.com/pr/curlsmith-full-lengths-density-elixir-2-fl-oz-60-ml/108027?rcode=BGG7944",
+            "yesstyle": "",
+            "sephora_uk": "",
+            "kamedis": "",
+            "superpharm": "",
+            "amazon": "",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "",
+            "asos": "",
+            "cultbeauty": ""
+        },
+        "sensitive": false,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": ["hair_loss"]
+    },
     {
         "hebrew_name": "מסכת שפתיים דבש של Cosrx",
         "english_name": "Cosrx lip mask propolis sleeping mask",

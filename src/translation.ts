@@ -24,7 +24,8 @@ const productTypeToHebrew :{ [key: string]: string  }= {
     highlighter: "היילייטר",
     itch_calming: "ג'ל להרגעת עקיצות",
     lipgloss: "ליפגלוס",
-    tool: "כלים ומכשירים"
+    tool: "כלים ומכשירים",
+    scalp_serum: "סרום לקרקפת"
 }
 
 const skinProblemToHebrew :{ [key: string]: string  }= {
@@ -43,7 +44,8 @@ const skinProblemToHebrew :{ [key: string]: string  }= {
     damaged_hair: "שיער פגום",
     dry_foot: "כפות רגליים יבשות",
     dry_hands: "ידיים יבשות",
-    itch: "עקיצות וגירודים"
+    itch: "עקיצות וגירודים",
+    hair_loss: "נשירת שיער"
 }
 
 const skinTypeToHebrew :{ [key: string]: string  }= {
