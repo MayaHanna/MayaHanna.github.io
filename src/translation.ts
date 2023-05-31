@@ -25,7 +25,16 @@ const productTypeToHebrew :{ [key: string]: string  }= {
     itch_calming: "ג'ל להרגעת עקיצות",
     lipgloss: "ליפגלוס",
     tool: "כלים ומכשירים",
-    scalp_serum: "סרום לקרקפת"
+    scalp_serum: "סרום לקרקפת",
+    brow_gel: "ג'ל גבות",
+    shampoo: "שמפו",
+    mascara: "מסקרה",
+    glaze: " גלייז לתלתלים",
+    concealer: "קונסילר",
+    hair_cream: "קרם לשיער",
+    body_scrub: "סקראב גוף",
+    body_cream: "קרם גוף",
+    eyeliner: "אייליינר",
 }
 
 const skinProblemToHebrew :{ [key: string]: string  }= {
@@ -45,7 +54,9 @@ const skinProblemToHebrew :{ [key: string]: string  }= {
     dry_foot: "כפות רגליים יבשות",
     dry_hands: "ידיים יבשות",
     itch: "עקיצות וגירודים",
-    hair_loss: "נשירת שיער"
+    hair_loss: "נשירת שיער",
+    dandruff:"קשקשים",
+    sensitive_scalp:"(קרקפת רגישה (מגורה/אדמומית/מגרדת"
 }
 
 const skinTypeToHebrew :{ [key: string]: string  }= {
