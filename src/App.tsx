@@ -22,7 +22,7 @@ function Home() {
           רשימת ההמלצות שלי בiHerb ❤️‍🔥
         </a>
         <a href='https://wa.me/message/PSFPDRJX5CLXP1'  className='link'>
-          שירות יעוץ ובניית שגרת טיפוח אישית 🧴
+          שירות יעוץ ובניית שגרת טיפוח אישית 🧴 - סגור כעת
         </a>
         <a href='https://chat.whatsapp.com/DKAUWvQeXNbITi3STqkoAz'  className='link'>
            התראות על חזרה למלאי 🛎️
