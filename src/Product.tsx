@@ -22,7 +22,8 @@ const websiteToColor :  { [key: string]: string | undefined }= {
     yesstyle: "#63c956",
     iherb: "#458500",
     amazon: "#febd69",
-    superpharm:"#203c9c"
+    superpharm:"#203c9c",
+    iconix: "#ece1da"
 }
 
 export function ProductViewer(props: {product: Product}){

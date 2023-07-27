@@ -35,6 +35,7 @@ const productTypeToHebrew :{ [key: string]: string  }= {
     body_scrub: "סקראב גוף",
     body_cream: "קרם גוף",
     eyeliner: "אייליינר",
+    body_oil: "שמן גוף"
 }
 
 const skinProblemToHebrew :{ [key: string]: string  }= {
@@ -56,7 +57,8 @@ const skinProblemToHebrew :{ [key: string]: string  }= {
     itch: "עקיצות וגירודים",
     hair_loss: "נשירת שיער",
     dandruff:"קשקשים",
-    sensitive_scalp:"(קרקפת רגישה (מגורה/אדמומית/מגרדת"
+    sensitive_scalp:"(קרקפת רגישה (מגורה/אדמומית/מגרדת",
+    dark_circles: "עיגולים שחורים סביב העיניים",
 }
 
 const skinTypeToHebrew :{ [key: string]: string  }= {

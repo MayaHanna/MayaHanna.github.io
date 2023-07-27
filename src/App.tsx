@@ -37,6 +37,9 @@ function Home() {
         <a href='https://www.yesstyle.com/en/home.html?rco=YESMAYA23&utm_term=YESMAYA23&utm_medium=Influencer&utm_source=dynamic&mcg=influencer'  className='link'>
         קוד הנחה ביס סטייל- YESMAYA23 🛒
         </a>
+        <a href='https://iconix.co.il/mayahanna'  className='link'>
+        קוד הנחה באייקוניקס- MAYA 🛒
+        </a>
         <a href='https://www.awin1.com/cread.php?awinmid=22773&awinaffid=1166354&ued=https%3A%2F%2Fwww.sephora.co.uk%2F'  className='link'>
         קוד הנחה בספורה בריטניה- MAYASPH 🛒
         </a>
