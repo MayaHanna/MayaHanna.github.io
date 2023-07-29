@@ -1,4 +1,27 @@
-    [
+        [ {
+            "hebrew_name": "משזף מלאכותי של בונדי סנדס",
+            "english_name": "Bondi Sands Technocolor Magenta 1 Hour Express Self Tanning Foam 200ml",
+            "brand": "Bondi sands",
+            "product_type": ["self_tan"],
+            "review":"https://www.instagram.com/p/CvSUHhdIL9H/?img_index=1",
+            "websites": {
+                "iherb": "",
+                "yesstyle": "",
+                "sephora_uk": "",
+                "kamedis": "",
+                "superpharm": "",
+                "amazon": "",
+                "jolse": "",
+                "belieef": "",
+                "beautybay": "",
+                "asos": "https://www.asos.com/bondi-sands/bondi-sands-technocolor-magenta-1-hour-express-self-tanning-foam-200ml/prd/204776381?ctaRef=my+orders",
+                "cultbeauty": ""
+            },
+            "sensitive": false,
+            "skin_types": [],
+            "cruelty_free": true,
+            "skin_problems": []
+        },
         {
             "hebrew_name": "Peel and revive - סרום חומצות של אייקוניקס",
             "english_name": "Peel and revive",

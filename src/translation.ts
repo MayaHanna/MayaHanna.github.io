@@ -35,7 +35,8 @@ const productTypeToHebrew :{ [key: string]: string  }= {
     body_scrub: "סקראב גוף",
     body_cream: "קרם גוף",
     eyeliner: "אייליינר",
-    body_oil: "שמן גוף"
+    body_oil: "שמן גוף",
+    self_tan: "שיזוף מלאכותי"
 }
 
 const skinProblemToHebrew :{ [key: string]: string  }= {
