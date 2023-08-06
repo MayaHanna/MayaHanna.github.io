@@ -1,4 +1,29 @@
-        [ {
+        [ 
+            {
+                "hebrew_name": "סטיק קונטור של קיקו מילאנו",
+                "english_name": "Kiko milano Sculpting Touch Creamy Stick Contour",
+                "brand": "Kiko Milano",
+                "product_type": ["contour","bronzer"],
+                "review":"https://www.instagram.com/p/CvnAvexoRya/?img_index=1",
+                "websites": {
+                    "iherb": "",
+                    "yesstyle": "",
+                    "sephora_uk": "https://www.awin1.com/cread.php?awinmid=22773&awinaffid=1166354&ued=https%3A%2F%2Fwww.sephora.co.uk%2Fp%2FKIKO-MILANO-Sculpting-Touch-Creamy-Stick-Contour-200-Hazelnut-10g",
+                    "kamedis": "",
+                    "superpharm": "",
+                    "amazon": "",
+                    "jolse": "",
+                    "belieef": "",
+                    "beautybay": "",
+                    "asos": "",
+                    "cultbeauty": ""
+                },
+                "sensitive": false,
+                "skin_types": [],
+                "cruelty_free": true,
+                "skin_problems": []
+            },    
+        {
             "hebrew_name": "משזף מלאכותי של בונדי סנדס",
             "english_name": "Bondi Sands Technocolor Magenta 1 Hour Express Self Tanning Foam 200ml",
             "brand": "Bondi sands",
@@ -2581,7 +2606,7 @@
         "websites": {
             "iherb": "",
             "yesstyle": "",
-            "sephora_uk": "",
+            "sephora_uk": "https://www.awin1.com/cread.php?awinmid=22773&awinaffid=1166354&ued=https%3A%2F%2Fwww.sephora.co.uk%2Fp%2FK18-Leave-in-Molecular-Repair-Hair-Mask-50ml",
             "kamedis": "",
             "superpharm": "",
             "amazon": "",
