@@ -1,4 +1,55 @@
-        [ 
+[ 
+    {
+        "hebrew_name": "קרם הגנה מינרלי של ד״ר עור",
+        "english_name": "דוקטור עור קרם הגנה מינרלי אנטיאייג׳ינג",
+        "brand": "דוקטור עור עור",
+        "product_type": ["sunscreen"],
+        "review":"https://www.instagram.com/p/CvcmIWxoOKv/",
+        "websites": {
+            "iherb": "",
+            "sephora_uk": "",
+            "kamedis": "",
+            "superpharm": "https://shop.super-pharm.co.il/care/sun-protection/%D7%A7%D7%A8%D7%9D-%D7%94%D7%92%D7%A0%D7%94-%D7%9E%D7%99%D7%A0%D7%A8%D7%9C%D7%99-%D7%90%D7%A0%D7%98%D7%99-%D7%90%D7%99%D7%99%D7%92%27%D7%99%D7%A0%D7%92-SPF50%2B/p/662398?gclid=Cj0KCQjwusunBhCYARIsAFBsUP_ROZ95PzZ1iIhEA1M0nNwsXh4YOS67S75emSbO21i2EeJznd-4_EMaAt9yEALw_wcB",
+            "amazon": "",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "",
+            "asos": "",
+            "cultbeauty": ""
+        },
+        "sensitive": false,
+        "skin_types": [],
+        "cruelty_free": true,
+        "skin_problems": [],
+        "spf_tags": ["waterproof","face","alcohol_free",
+        "cream","mineral",
+        "israeli",
+        "natural"]
+    }, 
+    {
+        "hebrew_name": "סבון פנים של קליירס",
+        "english_name": "Dear, Klairs, Gentle Black Facial Cleanser",
+        "brand": "Dear, Klairs",
+        "product_type": ["cleanser"],
+        "review":"https://www.instagram.com/p/CvxPSFLoqKJ/",
+        "websites": {
+            "iherb": "https://il.iherb.com/pr/dear-klairs-gentle-black-facial-cleanser-4-73-fl-oz-140-ml/109387?rcode=BGG7944",
+            "yesstyle": "https://www.yesstyle.com/en/dear-klairs-gentle-black-facial-cleanser-140ml/info.html/pid.1102474671?rco=YESMAYA23&utm_term=YESMAYA23&utm_medium=Influencer&utm_source=dynamic&mcg=influencer",
+            "sephora_uk": "",
+            "kamedis": "",
+            "superpharm": "",
+            "amazon": "",
+            "jolse": "",
+            "belieef": "",
+            "beautybay": "",
+            "asos": "",
+            "cultbeauty": ""
+        },
+        "sensitive": true,
+        "skin_types": ["dry"],
+        "cruelty_free": true,
+        "skin_problems": []
+    }, 
             {
                 "hebrew_name": "סטיק קונטור של קיקו מילאנו",
                 "english_name": "Kiko milano Sculpting Touch Creamy Stick Contour",
@@ -47,7 +98,7 @@
             "cruelty_free": true,
             "skin_problems": []
         },
-        {
+       {
             "hebrew_name": "Peel and revive - סרום חומצות של אייקוניקס",
             "english_name": "Peel and revive",
             "brand": "Iconix",
@@ -166,7 +217,8 @@
             "sensitive": true,
             "skin_types": ["dry"],
             "cruelty_free": true,
-            "skin_problems": []
+            "skin_problems": [],
+            "spf_tags": ["face","fragrance_free","alcohol_free","lightweight_lotion","old_chemical","australian","glow"]
         },
         {
             "hebrew_name": "טונר ג׳ינסנג של ביוטי אוף ג׳וזן",
@@ -287,7 +339,8 @@
             "sensitive": true,
             "skin_types": [],
             "cruelty_free": true,
-            "skin_problems": []
+            "skin_problems": [],
+            "spf_tags": ["face","fragrance_free","alcohol_free","fluid","chemical_new_and_old","australian","glow"]
         },
         {
             "hebrew_name": "טונר שיבולת שועל של פיוריטו",
@@ -334,8 +387,9 @@
             "sensitive": false,
             "skin_types": [],
             "cruelty_free": true,
-            "skin_problems": []
-        },
+            "skin_problems": [],
+            "spf_tags": ["waterproof","face","alcohol_free","cream","chemical_new_and_old","israeli","glow"]
+    },
     {
         "hebrew_name": "סרום לקרקפת של curlsmith",
         "english_name": "Curlsmith, Full Lengths Density Elixir, 2 fl oz (60 ml)",
@@ -406,7 +460,8 @@
         "sensitive": false,
         "skin_types": [],
         "cruelty_free": true,
-        "skin_problems": []
+        "skin_problems": [],
+        "spf_tags": ["waterproof","face","fragrance_free","alcohol_free","gel","chemical_new_and_old","israeli","natural"]
     },
     {
         "hebrew_name": "שמן ניקוי של beauty of joseon",
@@ -502,7 +557,8 @@
         "sensitive": true,
         "skin_types": ["dry"],
         "cruelty_free": true,
-        "skin_problems": []
+        "skin_problems": [],
+        "spf_tags": ["face","fragrance_free","alcohol_free","lightweight_lotion","new_chemical_and_hybrid","korean","natural"]
     },
     {
         "hebrew_name": "באלם ניקוי של ביוטי ביי",
@@ -831,7 +887,8 @@
         "sensitive": true,
         "skin_types": ["dry","normal"],
         "cruelty_free": true,
-        "skin_problems": ["redness","broken_barrier","dehydrated"]
+        "skin_problems": ["redness","broken_barrier","dehydrated"],
+        "spf_tags": ["face","fragrance_free","lightweight_lotion","new_chemical_and_hybrid","korean","glow"]
     },{
         "hebrew_name": "קרם טופיק סקין של קמדיס",
         "english_name": "Kamedis topic skin face and body cream",
@@ -877,7 +934,8 @@
         "sensitive": true,
         "skin_types": ["dry","normal"],
         "cruelty_free": true,
-        "skin_problems": ["broken_barrier","redness","dehydrated"]
+        "skin_problems": ["broken_barrier","redness","dehydrated"],
+        "spf_tags": ["face","fragrance_free","alcohol_free","lightweight_lotion","new_chemical","korean","glow"]
     },{
         "hebrew_name": "באלם ניקוי של ביוטי אוף ג'וסון",
         "english_name": "Beauty of Joseon - Radiance Cleansing Balm",
@@ -947,7 +1005,8 @@
         "sensitive": true,
         "skin_types": ["dry"],
         "cruelty_free": true,
-        "skin_problems": ["dehydrated","redness","broken_barrier"]
+        "skin_problems": ["dehydrated","redness","broken_barrier"],
+        "spf_tags": ["face","fragrance_free","alcohol_free","lightweight_lotion", "new_chemical_and_mineral","korean","glow"]
     },{
         "hebrew_name": "אמולסיה (תחליב) תה ירוק של איסנטרי",
         "english_name": "Isntree, Green Tea Fresh Emulsion",
@@ -971,6 +1030,7 @@
         "skin_types": ["normal","combination"],
         "cruelty_free": true,
         "skin_problems": ["redness","broken_barrier"]
+        
     },{
         "hebrew_name": "קרם הגנה של בונדי סנדס",
         "english_name": "Bondi sands hydra uv protect SPF50 body lotion",
@@ -993,7 +1053,8 @@
         "sensitive": true,
         "skin_types": ["dry"],
         "cruelty_free": true,
-        "skin_problems": []
+        "skin_problems": [],
+        "spf_tags": ["waterproof","face","body","fragrance_free","alcohol_free","cream","chemical_new_and_old","australian","glow"]
     },{
         "hebrew_name": " מסכת שפתיים סרמיד של cosrx ",
         "english_name": "Cosrx, Lip Sleep, Ceramide Lip Butter Sleeping Mask",
@@ -1108,7 +1169,8 @@
         "sensitive": true,
         "skin_types": ["oily","normal","combination"],
         "cruelty_free": true,
-        "skin_problems": ["redness","broken_barrier"]
+        "skin_problems": ["redness","broken_barrier"],
+        "spf_tags": ["face","fragrance_free","alcohol_free","lightweight_lotion","new_chemical_and_hybrid","korean","natural"]
     },{
         "hebrew_name": "קרם רטינול של yeouth",
         "english_name": "Yeouth, Retinol Eye Cream",
@@ -1341,7 +1403,12 @@
         "sensitive": false,
         "skin_types": ["combination","normal","oily"],
         "cruelty_free": true,
-        "skin_problems": []
+        "skin_problems": [],
+        "spf_tags": ["face","alcohol_free","lightweight_lotion",
+        "new_chemical_and_hybrid",
+       "korean",
+        "glow"]
+
     },{
         "hebrew_name": "קרם הגנה לה רוש פוזה אנתליוס קרם",
         "english_name": "anthelios Hydrating Cream SPF50+ ",
@@ -1364,7 +1431,11 @@
         "sensitive": false,
         "skin_types": ["dry"],
         "cruelty_free": false,
-        "skin_problems": []
+        "skin_problems": [],
+        "spf_tags": ["waterproof","face","fragrance_free",
+        "cream","chemical_new_and_old",
+        "european",
+        "glow"]
     },{
         "hebrew_name": "טונר גלקטומייסיס של Cosrx ",
         "english_name": "Cosrx galactomyces 95 tone balancing essence",
@@ -1410,7 +1481,11 @@
         "sensitive": false,
         "skin_types": ["oily"],
         "cruelty_free": false,
-        "skin_problems": []
+        "skin_problems": [],
+        "spf_tags": ["waterproof","face","fragrance_free",
+       "fluid","new_chemical",
+        "european",
+        "glow"]
     },{
         "hebrew_name": "קרם הגנה של רבולושן ",
         "english_name": "Revolution Skincare SPF30 protecting boost",
@@ -1548,7 +1623,11 @@
         "sensitive": true,
         "skin_types": ["combination","normal"],
         "cruelty_free": true,
-        "skin_problems": []
+        "skin_problems": [],
+        "spf_tags": ["face","fragrance_free","alcohol_free","lightweight_lotion",
+        "chemical_new_and_old",
+       "korean",
+        "glow"]
     },{
         "hebrew_name": "סרום BHA אינקי ליסט",
         "english_name": "The inkey list beta hydroxy acid",
@@ -1924,7 +2003,11 @@
         "sensitive": true,
         "skin_types": ["dry"],
         "cruelty_free": true,
-        "skin_problems": []
+        "skin_problems": [],
+        "spf_tags": ["face","fragrance_free","alcohol_free",
+        "cream",
+        "old_chemical_and_mineral","tinted","american",
+        "glow"]
     },{
         "hebrew_name": "קרם חומצה היאלורונית של Isntree ",
         "english_name": "Isntree hyaluronic acid moist cream",
@@ -2272,7 +2355,11 @@
         "sensitive": false,
         "skin_types": [],
         "cruelty_free": true,
-        "skin_problems": []
+        "skin_problems": [],
+        "spf_tags": ["waterproof","body",
+        "fluid","new_chemical",
+        "european",
+        "glow"]
     },{
         "hebrew_name": "סומק סטיק של ELF",
         "english_name": "E.L.F., Monochromatic Multi-Stick",
@@ -2503,7 +2590,9 @@
         "sensitive": false,
         "skin_types": [],
         "cruelty_free": true,
-        "skin_problems": []
+        "skin_problems": [],
+        "spf_tags": ["lips","alcohol_free","chemical_new_and_old",
+        "australian"]
     },{
         "hebrew_name": "גלוס מנפח של רבולושן",
         "english_name": "Makeup Revolution Pout Bomb Plumping Lip Gloss Cookie",
@@ -2615,7 +2704,7 @@
             "beautybay": "https://www.beautybay.com/l/k18hair/",
             "asos": "",
             "cultbeauty": "https://www.cultbeauty.com/k18-leave-in-molecular-repair-hair-mask-various-sizes/13557497.html",
-            "makeup": "https://makeupstore.co.il/product/565794/?gad=1&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3B-OGVQXr-WcnGOxRWzF5CfX65_fo8847fYAVV609_IGfohrMYwl6BoCpRkQAvD_BwE"
+            "k18": "https://k18hair.co.il/product/%d7%9e%d7%a1%d7%9b%d7%94-%d7%9c%d7%aa%d7%99%d7%a7%d7%95%d7%9f-%d7%95%d7%a9%d7%99%d7%a7%d7%95%d7%9d-%d7%9e%d7%95%d7%9c%d7%a7%d7%95%d7%9c%d7%a8%d7%99-%d7%a9%d7%9c-%d7%94%d7%a9%d7%99%d7%a2%d7%a8-50/"
         },
         "sensitive": false,
         "skin_types": [],
@@ -2975,7 +3064,7 @@
         "hebrew_name": "קרם הגנה גלואו של סופרגופ ",
         "english_name": "Supergoop glow sunscreen",
         "brand": "Supergoop",
-        "product_type": ["bb_cream"],
+        "product_type": ["bb_cream","sunscreen"],
         "review":"https://www.instagram.com/p/CeDsprwolEy/",
         "websites": {
             "iherb": "",
@@ -3018,13 +3107,13 @@
         "cruelty_free": true,
         "skin_problems": []
     },{
-        "hebrew_name": "",
-        "english_name": "",
-        "brand": "",
-        "product_type": [""],
-        "review":"",
+        "hebrew_name": "קרם הגנה לגוף של Hawaiian tropic",
+        "english_name": "Hawaiian tropic island sport high performance sunscreen",
+        "brand": "Hawaiian tropic",
+        "product_type": ["body_sunscreen"],
+        "review":"https://www.instagram.com/p/CQ_pjJ-nBSt/",
         "websites": {
-            "iherb": "",
+            "iherb": "https://il.iherb.com/pr/hawaiian-tropic-everyday-active-sport-sunscreen-lotion-spf-50-light-tropical-8-fl-oz-236-ml/93566?rcode=BGG7944",
             "yesstyle": "",
             "sephora_uk": "",
             "kamedis": "",
@@ -3038,16 +3127,19 @@
         },
         "sensitive": false,
         "skin_types": [],
-        "cruelty_free": true,
-        "skin_problems": []
+        "cruelty_free": false,
+        "skin_problems": [],
+        "spf_tags": ["waterproof","body","alcohol_free",
+        "cream","old_chemical","american",
+        "natural"]
     },{
-        "hebrew_name": "",
-        "english_name": "",
-        "brand": "",
-        "product_type": [""],
-        "review":"",
+        "hebrew_name": "קרם הגנה של Hawaiian tropic עם אנטיאוקסידנטים",
+        "english_name": "Hawaiian tropic Antioxidant + sunscreen lotion",
+        "brand": "Hawaiian tropic",
+        "product_type": ["body_sunscreen"],
+        "review":"https://www.instagram.com/p/CUQTDtOIeOs/",
         "websites": {
-            "iherb": "",
+            "iherb": "https://il.iherb.com/pr/hawaiian-tropic-antioxidant-sunscreen-lotion-spf-50-6-fl-oz-177-ml/105968?rcode=BGG7944",
             "yesstyle": "",
             "sephora_uk": "",
             "kamedis": "",
@@ -3061,16 +3153,20 @@
         },
         "sensitive": false,
         "skin_types": [],
-        "cruelty_free": true,
-        "skin_problems": []
+        "cruelty_free": false,
+        "skin_problems": [],
+        "spf_tags": ["waterproof","body","alcohol_free",
+        "cream",
+        "old_chemical","american",
+        "natural"]
     },{
-        "hebrew_name": "",
-        "english_name": "",
-        "brand": "",
-        "product_type": [""],
-        "review":"",
+        "hebrew_name": "קרם הגנה עם טינט של טינק ",
+        "english_name": "think, Everyday Face, SPF 30+, Naturally Tinted",
+        "brand": "Think",
+        "product_type": ["sunscreen"],
+        "review":"https://www.instagram.com/p/CFNIWtknGe2/",
         "websites": {
-            "iherb": "",
+            "iherb": "https://il.iherb.com/pr/think-everyday-face-spf-30-naturally-tinted-2-fl-oz-59-ml/72849?rcode=BGG7944",
             "yesstyle": "",
             "sephora_uk": "",
             "kamedis": "",
@@ -3085,15 +3181,18 @@
         "sensitive": false,
         "skin_types": [],
         "cruelty_free": true,
-        "skin_problems": []
+        "skin_problems": [],
+        "spf_tags": ["waterproof","face","alcohol_free",
+        "cream","mineral",
+        "tinted","american"]
     },{
-        "hebrew_name": "",
-        "english_name": "",
-        "brand": "",
-        "product_type": [""],
-        "review":"",
+        "hebrew_name": "קרם גוף עם מקדם הגנה של hawaiian tropic ",
+        "english_name": "Hawaiian tropic sheer touch lotion sunscreen ultra radiance spf30",
+        "brand": "Hawaiian tropic",
+        "product_type": ["body_sunscreen"],
+        "review":"https://www.instagram.com/p/CE9xiqcHLQV/",
         "websites": {
-            "iherb": "",
+            "iherb": "https://il.iherb.com/pr/hawaiian-tropic-sheer-touch-lotion-sunscreen-ultra-radiance-spf-30-8-fl-oz-236-ml/93571?rcode=BGG7944",
             "yesstyle": "",
             "sephora_uk": "",
             "kamedis": "",
@@ -3108,15 +3207,18 @@
         "sensitive": false,
         "skin_types": [],
         "cruelty_free": true,
-        "skin_problems": []
+        "skin_problems": [],
+        "spf_tags": ["body","alcohol_free",
+        "cream","old_chemical","american",
+        "glow"]
     },{
-        "hebrew_name": "",
-        "english_name": "",
-        "brand": "",
-        "product_type": [""],
-        "review":"",
+        "hebrew_name": "קרם הגנה של פיפט",
+        "english_name": "Pipette, Mineral Sunscreen Broad Spectrum, SPF 50",
+        "brand": "Pipette",
+        "product_type": ["sunscreen","body_cream"],
+        "review":"https://www.instagram.com/p/CXBdG1grwKR/",
         "websites": {
-            "iherb": "",
+            "iherb": "https://il.iherb.com/pr/pipette-mineral-sunscreen-broad-spectrum-spf-50-4-fl-oz-120-ml/103631?rcode=BGG7944",
             "yesstyle": "",
             "sephora_uk": "",
             "kamedis": "",
@@ -3131,15 +3233,18 @@
         "sensitive": false,
         "skin_types": [],
         "cruelty_free": true,
-        "skin_problems": []
+        "skin_problems": [],
+        "spf_tags": ["face","body","fragrance_free","alcohol_free",
+        "cream","mineral",
+        "for_babies"]
     },{
-        "hebrew_name": "",
-        "english_name": "",
-        "brand": "",
-        "product_type": [""],
-        "review":"",
+        "hebrew_name": "קרם הגנה של הירו",
+        "english_name": "Hero Cosmetics, Force Shield, Superlight Sunscreen, SPF 30",
+        "brand": "Hero",
+        "product_type": ["sunscreen"],
+        "review":"https://www.instagram.com/p/Cf1oIy1omRD/",
         "websites": {
-            "iherb": "",
+            "iherb": "https://il.iherb.com/pr/hero-cosmetics-force-shield-superlight-sunscreen-spf-30-1-69-fl-oz-50-ml/109740?rcode=BGG7944",
             "yesstyle": "",
             "sephora_uk": "",
             "kamedis": "",
@@ -3153,8 +3258,11 @@
         },
         "sensitive": false,
         "skin_types": [],
-        "cruelty_free": true,
-        "skin_problems": []
+        "cruelty_free": false,
+        "skin_problems": [],
+        "spf_tags": ["face","fragrance_free","alcohol_free",
+        "cream","mineral",
+        "matte"]
     },{
         "hebrew_name": "",
         "english_name": "",

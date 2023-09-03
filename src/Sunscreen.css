@@ -1,0 +1,40 @@
+.brands-page {
+    width: 100%;
+}
+
+h2 {
+    margin: 0;
+}
+
+.brands-page h1{ 
+    text-align: center;
+}
+
+.tags-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    padding: 10px;
+}
+
+.productsWrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.spf-tag-link {
+    border-style: solid;
+    box-shadow:2px 2px 5px black ;
+    border-color: black;
+    color: black;
+    padding: 10px;
+    width: 40%;
+    text-decoration: none;
+    border-radius: 11px;
+    background-color:#F5F5DC ;
+    text-align: center;
+    direction: rtl;
+    font-size: small;
+}

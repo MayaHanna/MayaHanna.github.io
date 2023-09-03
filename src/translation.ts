@@ -70,4 +70,35 @@ const skinTypeToHebrew :{ [key: string]: string  }= {
     normal: "רגיל",
 }
 
-export {productTypeToHebrew, skinProblemToHebrew, skinTypeToHebrew};
+const sunscreenTagsToHebrew :{ [key: string]: string  }= {
+
+    waterproof: "עמיד במים💧",
+    face: "לפנים",
+    body: "לגוף",
+    lips: "לשפתיים💋",
+    fragrance_free: "ללא בישום או שמנים אתריים🌸",
+    alcohol_free: "ללא אלכוהול🥂",
+    lightweight_lotion: "קרם קליל",
+    cream: "קרם",
+    fluid: "נוזל",
+    gel: "ג׳ל",
+    mineral: "מינרלי",
+    chemical_new_and_old: "מעורב- כימי חדש וישן",
+    new_chemical: "כימי דור חדש",
+    new_chemical_and_hybrid: "מעורב- כימי חדש והיברידי",
+    old_chemical_and_mineral: "מעורב- כימי דור ישן ומינרלי",
+    new_chemical_and_mineral: "מעורב- כימי דור חדש ומינרלי",
+    old_chemical: "כימי דור ישן",
+    tinted: "עם גוון",
+    korean: "קוריאני🇰🇷",
+    israeli: "ישראלי🇮🇱",
+    australian: "אוסטרלי🇦🇺",
+    american: "אמריקאי🇺🇸",
+    european: "אירופאי🇪🇺",
+    for_babies: "לתינוקות🍼",
+    glow: "גימור מבריק",
+    natural: "גימור טבעי",
+    matte: "גימור מאט",
+}
+
+export {productTypeToHebrew, skinProblemToHebrew, skinTypeToHebrew, sunscreenTagsToHebrew};
