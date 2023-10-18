@@ -14,6 +14,7 @@ import { SkinProblem } from "./SkinProblem";
 import { ProductType } from "./ProductType";
 import { SkinType } from "./SkinType";
 import { Sunscreen } from "./Sunscreen";
+import { Latest } from "./Latests";
 
 function Home() {
   return (
@@ -90,6 +91,7 @@ function App() {
         <Route path="/product_type/:name?" element={<ProductType />} />
         <Route path="/skin_type/:name?" element={<SkinType />} />
         <Route path="/sunscreen/:tag?" element={<Sunscreen />} />
+        <Route path="/latest" element={<Latest />} />
       </Routes>
     </div>
   );

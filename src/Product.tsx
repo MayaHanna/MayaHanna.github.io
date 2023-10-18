@@ -47,6 +47,9 @@ export function ProductViewer(props: { product: Product }) {
       {props.product.brand === "Kamedis" && (
         <div>קוד הנחה באתר של קמדיס: MAYA10</div>
       )}
+      {props.product.brand === "Iconix" && (
+        <div>קוד הנחה באתר של אייקוניקס: MAYA</div>
+      )}
       {props.product.brand === "K18" && <div>קוד הנחה באתר של k18: MAYA10</div>}
       <p className="brand-and-type">
         מותג:

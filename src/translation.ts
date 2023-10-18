@@ -37,7 +37,8 @@ const productTypeToHebrew :{ [key: string]: string  }= {
     eyeliner: "אייליינר",
     body_oil: "שמן גוף",
     self_tan: "שיזוף מלאכותי",
-    contour: "קונטור"
+    contour: "קונטור",
+    lash_serum: "סרום לריסים"
 }
 
 const skinProblemToHebrew :{ [key: string]: string  }= {

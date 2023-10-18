@@ -24,6 +24,9 @@ export function SearchProducts() {
         <Link className="cat-link" to="/sunscreen">
           חיפוש קרם הגנה
         </Link>
+        <Link className="cat-link" to="/latest">
+          המלצות חדשות
+        </Link>
       </div>
     </div>
   );
